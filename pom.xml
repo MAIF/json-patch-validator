@@ -3,7 +3,7 @@
 
     <groupId>fr.maif.json.validation</groupId>
     <artifactId>json-patch-validator</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -55,7 +55,7 @@
         <connection>scm:git:git@github.com:MAIF/json-patch-validator.git</connection>
         <developerConnection>scm:git:git@github.com:MAIF/json-patch-validator.git</developerConnection>
         <url>https://github.com/MAIF/json-patch-validator/tree/main</url>
-      <tag>v0.1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
